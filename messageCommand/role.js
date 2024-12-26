@@ -17,7 +17,7 @@ module.exports = {
       return message.reply("Please mention a user.");
     }
 
-    if (!role) {
+    if (!rolee) {
       return message.reply("Please mention a role.");
     }
 
